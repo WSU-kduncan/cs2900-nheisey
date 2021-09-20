@@ -99,6 +99,6 @@ Using ipconfig on my host OS:
 
 ![Host OS ipconfig](Images/HostNat.jpg)
 
-Proof of using internet on VM under bridged networking type:
+Proof of using internet on VM under bridged networking type figured not sure how importnat this is but I'd figure I'd include it just in case! :
 
 ![Internet Searches](Images/VMsearch.jpg)
