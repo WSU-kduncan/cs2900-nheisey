@@ -89,16 +89,16 @@ To do this I went into my networking settings for my VM and changed the network 
 
 ifconfig under NAT network type:
 
-![NAT Network](VMNAT.jpg)
+![NAT Network](Images/VMNAT.jpg)
 
 ifconfig when changed to bridged network type:
 
-![Bridged Network](VMBridged.jpg)
+![Bridged Network](Images/VMBridged.jpg)
 
 Using ipconfig on my host OS:
 
-![Host OS ipconfig](HostNat.jpg)
+![Host OS ipconfig](Images/HostNat.jpg)
 
 Proof of using internet on VM under bridged networking type:
 
-![Internet Searches](VMsearch.jpg)
+![Internet Searches](Images/VMsearch.jpg)
